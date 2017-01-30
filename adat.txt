@@ -1,0 +1,6 @@
+﻿egy
+kettő
+három
+négy
+öt
+új adat

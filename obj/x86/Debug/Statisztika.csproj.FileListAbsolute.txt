@@ -1,0 +1,4 @@
+C:\Users\guthe\documents\visual studio 2010\Projects\Statisztika\bin\Debug\Statisztika.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\Statisztika\bin\Debug\Statisztika.pdb
+C:\Users\guthe\documents\visual studio 2010\Projects\Statisztika\obj\x86\Debug\Statisztika.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\Statisztika\obj\x86\Debug\Statisztika.pdb
